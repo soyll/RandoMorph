@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: RandoMorph
+Version: 0.0.8
+Summary: A simple Python library for generating random data of various types, including strings, names, addresses, numbers, and more.
+Home-page: https://github.com/soyll/RandoMorph
+Author: soyll
+Author-email: soyll@vk.com
+Project-URL: GitHub, https://github.com/soyll
+Keywords: test python generate random randomorph
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
 # RandoMorph
 The **RandoMorph** is a simple Python library designed for generating random data of various types, including strings, names, addresses, numbers, and more. This library is ideal for creating test data, mock-ups, or demonstration samples.
 
