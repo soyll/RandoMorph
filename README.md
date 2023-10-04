@@ -9,6 +9,7 @@ The **RandoMorph** is a simple Python library designed for generating random dat
 * [Usage](#usage)
   * [Result](#result) 
 * [**Arguments**](#arguments)
+* [Plans](#plans)
 
 ## Getting Started
 
@@ -64,3 +65,8 @@ example.generate(sample="Address Email Name", length=5, file_name="test.png", ou
 | `length` | The length of the table, i.e., the number of rows in the generated file. Limited to values less than 100. | Integer `1<N<100`. | `length=50` |
 | `filename` | The name of the file and its extension in which the result will be saved. | A string with a valid file extension (e.g., 'xlsx', 'png', 'json', 'csv'). | `filename='sample_data.xlsx'` |
 | `output_path` | The path where the file will be saved. | A string representing the directory path where the file should be saved. | `output_path='/path/to/save/'` |
+
+## Plans
+* `Expand the list of supported files.`
+* `Increase the size of dictionaries up to 1000.`
+* `Revise code to automatically search for dictionaries for easy management from GitHub. `
