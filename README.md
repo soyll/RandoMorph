@@ -1,5 +1,3 @@
-<img src="https://github.com/soyll/RandoMorph/blob/main/logo.gif" data-canonical-src="https://github.com/soyll/RandoMorph/blob/main/logo.gif" width="1000" height="550" />
-
 # RandoMorph
 The **RandoMorph** is a simple Python library designed for generating random data of various types, including strings, names, addresses, numbers, and more. This library is ideal for creating test data, mock-ups, or demonstration samples.
 
